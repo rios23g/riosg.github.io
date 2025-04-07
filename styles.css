@@ -19,7 +19,7 @@
 /* General body styling - sets up the page's background, font, and center alignment */
 body {
     font-family: 'Poppins', sans-serif; /* Applies the Poppins font to the entire page */
-    background: linear-gradient(135deg, #f2e203 0%, #000000 100%); /* Gradient background */
+    background: linear-gradient(135deg, #458CCC 0%, #ffffff 100%); /* Gradient background */
     display: flex; /* Enables flexbox layout */
     justify-content: center; /* Centers content horizontally */
     align-items: center; /* Centers content vertically */
